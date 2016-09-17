@@ -3,11 +3,11 @@
 [![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)
 [![Build Status](https://travis-ci.org/Syncleus/angular2-seed-material2-advanced.svg?branch=master)](https://travis-ci.org/Syncleus/angular2-seed-material2-advanced)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
-[![Dependency Status](https://david-dm.org/NathanWalker/angular2-seed-advanced.svg)](https://david-dm.org/NathanWalker/angular2-seed-advanced)
-[![devDependency Status](https://david-dm.org/NathanWalker/angular2-seed-advanced/dev-status.svg)](https://david-dm.org/NathanWalker/angular2-seed-advanced#info=devDependencies)
-[![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/NathanWalker/angular-2-seed-advanced)
-[![Stories in Progress](https://badge.waffle.io/NathanWalker/angular2-seed-advanced.png?label=in%20progress&title=Stories%20In%20Progress)](https://waffle.io/NathanWalker/angular2-seed-advanced)
-[![Join the chat at https://gitter.im/Syncleus/angular2-seed-material2-advanced](https://badges.gitter.im/Syncleus/angular2-seed-material2-advanced.svg)](https://gitter.im/Syncleus/angular2-seed-material2-advanced?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Dependency Status](https://david-dm.org/Syncleus/angular2-seed-material2-advanced.svg)](https://david-dm.org/Syncleus/angular2-seed-material2-advanced)
+[![devDependency Status](https://david-dm.org/Syncleus/angular2-seed-material2-advanced/dev-status.svg)](https://david-dm.org/Syncleus/angular2-seed-material2-advanced#info=devDependencies)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/freemo/angular2-seed-material2-advanced)
+[![Stories in Ready](https://badge.waffle.io/Syncleus/angular2-seed-material2-advanced.svg?label=ready&title=Ready)](http://waffle.io/Syncleus/angular2-seed-material2-advanced)
+[![Gitter chat](https://badges.gitter.im/Syncleus/angular2-seed-material2-advanced.svg)](https://gitter.im/Syncleus/angular2-seed-material2-advanced?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 #### Considering [Angular 2](https://angular.io/) for a large project? Do you need potential i18n support? Enhanced testing support? Oh and building for multiple platforms too? Web, *native* Mobile (Android/iOS), and even Desktop (Mac, Windows and Linux)?  
 
