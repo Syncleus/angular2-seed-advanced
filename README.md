@@ -1,6 +1,5 @@
 ![Angular 2 Seed Material 2 Advanced](https://d2wp4shknjcfjl.cloudfront.net/api/file/olEzxJQ2KcXrZHzbt9UA)![Angular 2 Seed Advanced Integrations](https://d2wp4shknjcfjl.cloudfront.net/api/file/SPLl77rSTuGZ7APrXizi)
 
-[![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)
 [![Build Status](https://travis-ci.org/Syncleus/angular2-seed-material2-advanced.svg?branch=master)](https://travis-ci.org/Syncleus/angular2-seed-material2-advanced)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 [![Dependency Status](https://david-dm.org/Syncleus/angular2-seed-material2-advanced.svg)](https://david-dm.org/Syncleus/angular2-seed-material2-advanced)
