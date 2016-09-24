@@ -10,6 +10,8 @@
 
 #### Considering [Angular 2](https://angular.io/) for a large project? Do you need potential i18n support? Enhanced testing support? Oh and building for multiple platforms too? Web, *native* Mobile (Android/iOS), and even Desktop (Mac, Windows and Linux)?  
 
+[![Join the chat at https://gitter.im/Syncleus/angular2-seed-material2-advanced](https://badges.gitter.im/Syncleus/angular2-seed-material2-advanced.svg)](https://gitter.im/Syncleus/angular2-seed-material2-advanced?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is an **advanced** seed project with Material Design support for Angular 2 apps based on [Nathan Walker's](https://github.com/NathanWalker) [angular2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced).
 
 Some of the features include.
